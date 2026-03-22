@@ -1,0 +1,34 @@
+\textbf {Title}\hfill \textbf {Page No.}\par 
+\contentsline {chapter}{Acknowledgement}{vii}{table.caption.3}%
+\contentsline {chapter}{Samgraham}{viii}{table.caption.3}%
+\contentsline {chapter}{Table of Contents}{ix}{table.caption.3}%
+\contentsline {chapter}{List of Tables}{x}{table.caption.3}%
+\contentsline {chapter}{List of Figures}{xi}{table.caption.3}%
+\contentsline {chapter}{List of Abbreviations}{xii}{table.caption.3}%
+\gdef \the@ipfilectr {@-1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\contentsline {chapter}{\numberline {2}Methodology}{3}{chapter.2}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\contentsline {chapter}{\numberline {3}Short Title of Chapter 1}{5}{chapter.3}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\contentsline {chapter}{\numberline {4}Short Title of Chapter 2}{7}{chapter.4}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\contentsline {chapter}{\numberline {5}Short Title of Chapter 3}{9}{chapter.5}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\contentsline {chapter}{\numberline {6}Conclusion}{11}{chapter.6}%
+\gdef \the@ipfilectr {}
+\contentsline {chapter}{Abstract}{12}{figure.caption.9}%
+\contentsline {chapter}{Appendix-I: List of Publications in SCI Journals emanating from the thesis work}{12}{table.6.1}%
+\gdef \the@ipfilectr {@-7}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-8}
+\contentsline {subsubsection}{1. Presented paper}{15}{subsubsection*.12}%
+\contentsline {subsubsection}{2. Presented poster}{15}{subsubsection*.13}%
+\contentsline {chapter}{Appendix-II: List of Papers presented in National / International conferences}{14}{Item.4}%
+\gdef \the@ipfilectr {}
